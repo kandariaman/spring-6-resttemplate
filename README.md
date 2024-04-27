@@ -25,9 +25,9 @@ This repository contains code examples for my course Spring Framework 6: Beginne
 * [Mastering Thymeleaf with Spring Boot](https://www.udemy.com/mastering-thymeleaf-with-spring/?couponCode=GITHUB_REPO_SF5B2G) - Once you learn Thymeleaf, you'll never want to go back to using JSPs for web development!
 
 
-## Connect with Spring Framework Guru
+## Connect with Spring Framework Guru s
 * Spring Framework Guru [Blog](https://springframework.guru/)
 * Subscribe to Spring Framework Guru on [YouTube](https://www.youtube.com/channel/UCrXb8NaMPQCQkT8yMP_hSkw)
 * Like Spring Framework Guru on [Facebook](https://www.facebook.com/springframeworkguru/)
 * Follow Spring Framework Guru on [Twitter](https://twitter.com/spring_guru)
-* Connect with John Thompson on [LinkedIn](http://www.linkedin.com/in/springguru)
+* Connect with John Thompson on [LinkedIn](http://www.linkedin.com/in/springguru)s
